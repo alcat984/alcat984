@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJs, Express, Webpack, Angular & Django.
 - 👯 I’m looking to collaborate to Open Source projects.
 - 😄 We can chat for hours about: Drones, Photography, Blockchain, Web publishing & Technology.   
-- ⚡ Fun fact: I love arepas (a Venezuelan dish) and Pasta Carbonara (Italian dish).
+- ⚡ Fun facts: I love arepas (a Venezuelan dish) and Pasta alla Carbonara (Italian dish).
 
 ![alt text](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 Photo by Fotis Fotopoulos on <a href="https://unsplash.com/s/photos/code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
