@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Silvio Alejandro, I'm an Italian/Venezuelan Frontend Developer.
+### Hi there 👋 I'm Silvio Alejandro, I'm an Italian/Venezuelan Frontend Developer & Multimedia Designer.
 
-- 🌱 I’m currently learning NodeJs, Express, Webpack, Angular & Django.
+- 🌱 I’m currently learning NodeJs, Express, Webpack, Angular & React.
 - 👯 I’m looking to collaborate to Open Source projects.
-- 😄 We can chat for hours about: Drones, Photography, Blockchain, Web publishing & Technology.   
+- 😄 We can chat for hours about: Drones, Photography, Videography, Blockchain, Web publishing & Technology.   
 - ⚡ Fun facts: I love arepas (a Venezuelan dish) and Pasta alla Carbonara (Italian dish).
 
 ![alt text](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
