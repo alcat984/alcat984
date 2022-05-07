@@ -1,4 +1,4 @@
-Hi 👋 My name is Silvio Alejandro Ricardo Catalano
+Hi 👋 My name is Silvio Alejandro Ricardo Catalano Garcia
 ==================================================
 
 Frontend Developer & UX | UI Designer
