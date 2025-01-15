@@ -1,12 +1,12 @@
 Hi 👋 My name is Silvio Alejandro Ricardo Catalano Garcia
 ==================================================
 
-Frontend Developer & UX | UI Designer
+UX/UI Designer & Frontend Developer 
 -------------------------------------
 
 * 🌍  I'm based in Rome, Italy
 * ✉️  You can contact me at [silviocat84@gmail.com](mailto:silviocat84@gmail.com)
-* 🧠  I'm learning Javascript, Typescript, NextJs, React, Python & Django
+* 🧠  I'm learning Javascript, Typescript, NextJs, React, Python, Django, PHP & Drupal
 * 🤝  I'm open to collaborating on Open Source
 
 ### Skills
